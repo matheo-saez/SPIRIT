@@ -13,7 +13,7 @@ Contribution and feedback are very welcome! [Contribution Guide](https://github.
 (Currently in the development phase, progress documented here and on the V Electronics [YT channel](https://www.youtube.com/@V_Electronics)).
 
 > [!WARNING]
-> For imformation about the project please refer to the **[wiki](https://github.com/V3lectronics/SPIRIT/wiki)**, the contents below maybe outdated.
+> For imformation about the project please refer to the **[wiki](https://github.com/V3lectronics/SPIRIT/wiki)**, the contents below may be outdated.
 > Soon all information will be moved to the wiki!
 
 # Contents
