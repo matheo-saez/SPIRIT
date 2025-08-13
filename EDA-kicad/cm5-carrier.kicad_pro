@@ -692,6 +692,10 @@
     [
       "b409b5f4-0f84-46c0-84e6-a0b4d149590c",
       "Flashlight"
+    ],
+    [
+      "bde4301f-747d-4aba-a21c-9ee44896b6bc",
+      "NFC"
     ]
   ],
   "text_variables": {}
